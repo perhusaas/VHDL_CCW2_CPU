@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/perhu/VivadoProjects/CCW2_LOGOCPU/CCW2_LOGOCPU.srcs/sources_1/new/PenCtrl.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'PenCtrl'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/perhu/VivadoProjects/CCW2_LOGOCPU/CCW2_LOGOCPU.srcs/sim_1/new/PenCheck.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Steppercheck'

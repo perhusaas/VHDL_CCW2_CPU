@@ -1,0 +1,1 @@
+-wto "61bb670f98ec42bda563013afb34015c" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "Steppercheck_behav" "xil_defaultlib.Steppercheck" -log "elaborate.log" 

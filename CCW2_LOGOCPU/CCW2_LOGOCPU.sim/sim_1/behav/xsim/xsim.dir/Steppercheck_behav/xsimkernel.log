@@ -1,0 +1,7 @@
+Running: xsim.dir/Steppercheck_behav/xsimk.exe -simmode gui -wdb Steppercheck_behav.wdb -simrunnum 0 -socket 55988
+Design successfully loaded
+Design Loading Memory Usage: 5288 KB (Peak: 5288 KB)
+Design Loading CPU Usage: 61 ms
+Simulation completed
+Simulation Memory Usage: 13948 KB (Peak: 13948 KB)
+Simulation CPU Usage: 45639 ms
