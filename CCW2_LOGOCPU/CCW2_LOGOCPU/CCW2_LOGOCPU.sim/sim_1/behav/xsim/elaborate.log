@@ -1,0 +1,23 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2019.1/bin/unwrapped/win64.o/xelab.exe -wto 61bb670f98ec42bda563013afb34015c --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot MasterSim_behav xil_defaultlib.MasterSim -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling architecture hal9000 of entity xil_defaultlib.cpu [cpu_default]
+Compiling architecture amygdala of entity xil_defaultlib.Rom [rom_default]
+Compiling architecture stepstep of entity xil_defaultlib.Steppers [steppers_default]
+Compiling architecture writestuff of entity xil_defaultlib.PenCtrl [penctrl_default]
+Compiling architecture movecart of entity xil_defaultlib.Outputs [outputs_default]
+Compiling architecture top_level of entity xil_defaultlib.Master [master_default]
+Compiling architecture behavioral of entity xil_defaultlib.mastersim
+Built simulation snapshot MasterSim_behav

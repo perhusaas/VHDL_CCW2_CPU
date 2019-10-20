@@ -1,0 +1,12 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../CCW2_LOGOCPU.srcs/sources_1/new/CPU.vhd" \
+"../../../../CCW2_LOGOCPU.srcs/sources_1/new/Master.vhd" \
+"../../../../CCW2_LOGOCPU.srcs/sources_1/new/Outputs.vhd" \
+"../../../../CCW2_LOGOCPU.srcs/sources_1/new/PenCtrl.vhd" \
+"../../../../CCW2_LOGOCPU.srcs/sources_1/new/ROM.vhd" \
+"../../../../CCW2_LOGOCPU.srcs/sources_1/new/Steppers.vhd" \
+"../../../../CCW2_LOGOCPU.srcs/sim_1/new/MasterSim.vhd" \
+
+# Do not sort compile order
+nosort
